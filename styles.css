@@ -1,0 +1,41 @@
+.aHeader{
+    color:lightgreen;
+    text-align: center;
+}
+.textWrapper{
+    border: solid 10px black;
+    border-radius:10px; 
+    background-color:grey;
+    display:flex;
+}
+.head3{
+    color: blue;
+    text-align: center;
+    
+}
+.filler{
+    color:red;
+    text-align: center;
+}
+
+.truthBorder{
+    
+    border: solid 4px black;
+    border-radius: 15px;
+    background-color:lightgray;
+    text-align: center;
+    margin: 10px 20px 10px 20px;
+    
+}
+#truth1{
+   width:30%;
+
+}
+#truth2{
+    width:30%;    
+
+}
+#truth3{
+    width:30%;
+}
+
